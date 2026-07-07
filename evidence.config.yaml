@@ -79,3 +79,7 @@ plugins:
     "@evidence-dev/sqlite": { }
     "@evidence-dev/trino": { }
     "@evidence-dev/motherduck": { }
+
+# evidence.config.yaml
+deployment:
+  basePath: /evidence-test
