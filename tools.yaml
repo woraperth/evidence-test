@@ -1,0 +1,6 @@
+sources:
+  my-bq-source:
+    kind: bigquery
+    project: evidence-test-r2de
+
+tools: {}
