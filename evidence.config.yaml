@@ -1,3 +1,6 @@
+project:
+  name: Road to Data Engineer by DataTH
+
 appearance:
   default: system
   switcher: true
